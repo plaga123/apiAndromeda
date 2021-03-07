@@ -1,0 +1,6 @@
+PORT=3000
+HOST=localhost
+USERNAME=userBaseDatos
+PASSWORD=PasswordBaseDatos
+DATABASE=nombreBaseDatos
+JWT_SECRET=fsdfsdfs#$#5353gergf>54354343
